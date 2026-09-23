@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3865ffe62b9c2e3f88073ea8",
+  "owner": "cevqvv",
+  "repo": "page-82ee81144db3da12443576ec",
+  "title": "牧牛云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "82ee81144db3da12443576ec",
+      "a": "牧牛云",
+      "b": "2027官方最新地址导航",
+      "entity": "牧牛云",
+      "brand": "牧牛云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c68529fea5c0c1eaaeac9f6a6e0cf356c4bf788ee2b4e3c3e9b31b6462b8b2b6",
+      "content": {
+        "primary_entity": "牧牛云",
+        "keyword1": "牧牛云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，手机、电脑与路由器各取所需。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "牧牛云上手",
+          "AI_DESCRIPTION": "，提供按月与按年两种计费方式，基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 流量支持 5 台设备，团队版每月 1000GB 流量支持 20 台设备，覆盖手机、电脑与路由器等常见设备，订阅导入按客户端文档操作即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路能力三个角度，快速匹配合适的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 支持 3 台设备，适合轻度使用，年付 ¥150 更划算。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 支持 5 台设备，含 IPLC 专线，年付 ¥350。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 支持 20 台设备，配 VIP 带宽，年付 ¥850。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "流媒体与游戏优化",
+          "AI_FEATURE_TITLE_3": "团队协作与定制",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置，先确认设备数量，再按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "牧牛云提供多种流量与设备规格的订阅套餐，基础版、旗舰版与团队版分别对应不同设备数量与带宽需求，按月或按年计费，适合个人到团队的不同使用场景。",
+          "AI_HERO_SUBTITLE": "多规格套餐，按需灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "支持月付与年付计费",
+          "AI_HIGHLIGHT_3": "多种客户端订阅配置",
+          "AI_PLANS_INTRO": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按设备数与流量需求对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线的设备数量，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路说明，确认是否满足使用需求。",
+          "AI_STEP_TEXT_3": "按对应客户端的配置文档导入订阅信息，完成设备端设置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "牧牛云套餐与设备选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "牧牛云套餐之间的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "主要区别在流量额度、设备数量和线路质量。基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并配IPLC专线；团队版每月1000GB、20台设备。",
+          "AI_FAQ_QUESTION_2": "年付比月付能节省多少？",
+          "AI_FAQ_ANSWER_2": "年付价格相当于十个月月付总和。基础版年付150元、旗舰版年付350元、团队版年付850元，分别比按月支付节省两个月费用。",
+          "AI_FAQ_QUESTION_3": "一个订阅可以同时连接几台设备？",
+          "AI_FAQ_ANSWER_3": "根据所选套餐不同，基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出数量的设备需要升级套餐或减少在线设备。",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅信息并保存。不同客户端操作略有差异，可参考该客户端的配置文档完成。",
+          "AI_FAQ_QUESTION_5": "选旗舰版还是团队版更合适？",
+          "AI_FAQ_ANSWER_5": "个人或两三人共享选旗舰版即可，300GB流量与IPLC专线能覆盖多数场景。若需要连接超过5台设备或月流量超过300GB，团队版更合适。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dechenay.cn",
+    "host": "dechenay.cn"
+  },
+  "file_hashes": {
+    "index.html": "02b0a9db4fc63a9f4a30e6fbe24a101b0843b7bf33901b6c1b938644d872f19a",
+    "sitemap.xml": "98336dd56c1de8c14950c4992081bc1720f48e33fb9e8a2c7d03128b79e386d4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cbf31d6c920f0a7ee7404eec3e4cfc72fc3b2ec077ddade40f44657446bc2d74",
+    "robots.txt": "a0630e057c1bf1ddce38cbc016f3825e29ed7342037e04ae24f8c7164f31946a",
+    "714d5202901a6f4762369d56692e1d6d.txt": "354e8b432e95eed08e44610be1336fe2f2640a88798fd0ce013c60dd781f71cf"
+  },
+  "revision": "e24ec124b69e2f9f4e9bca3f3b1fa01fc4a12ceae22c921320c8e274b85246a1"
+}
